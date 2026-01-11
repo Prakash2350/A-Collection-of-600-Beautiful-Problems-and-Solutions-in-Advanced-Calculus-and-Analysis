@@ -1,4 +1,4 @@
-# Good-Problems-in-Mathalysis-World-Youtube-Channel
+# A-Collection-of-600-Beautiful-Problems-and-Solutions-in-Advanced-Calculus-and-Analysis
 
 Hey, here I will share the problems whose solutions I have uploaded in Mathalysis World.
 
